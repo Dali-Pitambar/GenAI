@@ -1,0 +1,7 @@
+{
+  "name": "Gemini & Streamlit GenAI Studio",
+  "description": "Interactive development environment, live runtime sandbox, template gallery, and code generator for building Generative AI apps with Google Gemini and Streamlit in Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
